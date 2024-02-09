@@ -29,3 +29,4 @@ npm run start:dev
 ```
 http://localhost:3000/saludo
 ```
+![image](https://github.com/pedroball20/apiSaludoExpress/assets/62299941/c3d165a1-4996-45e4-9e6e-4b2393c330af)
